@@ -23,7 +23,7 @@ All modifications to this bot have been created by members of the Toychat server
 This bot is designed specifically for the Toychat community, but that does not mean it cannot work in other servers. However, this project is still very much incomplete, so using this bot in its current state is not recommended. One alternative is to use the [Vortex](https://github.com/jagrosh/Vortex) bot, which (botname) is a fork of.
 
 ## [Vortex Wiki](https://github.com/jagrosh/Vortex/wiki)
-### Please note, these links lead to information on the original Vortex bot, not (bot name). As many of the features have been reworked, it is very likely that the support listed here will not apply to (botname).
+### Please note, these links lead to information on the original Vortex bot, not (bot name). As many of the features have been reworked, it is very likely that the support listed here will not apply to (bot name).
 ℹ [About Vortex](https://github.com/jagrosh/Vortex/wiki/About-Vortex)  
 🌀 [Getting Started](https://github.com/jagrosh/Vortex/wiki/Getting-Started)  
 🔨 [Moderator Guide](https://github.com/jagrosh/Vortex/wiki/Moderator-Guide)  
