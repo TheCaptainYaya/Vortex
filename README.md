@@ -1,4 +1,4 @@
-# (Bot name)
+# Toybot
 ## Links to information on Vortex, off of which this bot is based
 [![GitHub stars](https://img.shields.io/github/stars/jagrosh/Vortex.svg?style=social&label=Stars&style=flat)](https://github.com/jagrosh/Vortex/stargazers)
  [![GuildCount](https://img.shields.io/badge/dynamic/json.svg?label=servers&url=https%3A%2F%2Fdiscord.bots.gg%2Fapi%2Fv1%2Fbots%2F240254129333731328&query=%24.guildCount&colorB=71A2B1)](https://discord.bots.gg/bots/240254129333731328)
@@ -10,7 +10,7 @@
 [![Support](https://discordapp.com/api/guilds/147698382092238848/widget.png?style=shield)](https://discord.gg/0p9LSGoRLu6Pet0k)
 
 ## Designed with the Toychat Server in Mind
-(bot name), based off of the open-source Vortex bot, has been redesigned to focus on needs specific to the IBXToyChat Discord community. It is tailor-made to be able to do everything the server desires, an ability that cannot be found in any generic moderation bot.
+Toybot, based off of the open-source Vortex bot, has been redesigned to focus on needs specific to the IBXToyChat Discord community. It is tailor-made to be able to do everything the server desires, an ability that cannot be found in any generic moderation bot.
 
 
 ## Helpful Moderation Utilities
@@ -20,10 +20,10 @@ No matter the community, there will always be some amount of 'bad apples'. When 
 All modifications to this bot have been created by members of the Toychat server. As this is a community-made project, development may be slow. If you want to contribute, any and all help is welcome! It is reccomended that you familiarize yourself with the current status of the bot, and what needs to be done, however. 
 
 ## Use Cases
-This bot is designed specifically for the Toychat community, but that does not mean it cannot work in other servers. However, this project is still very much incomplete, so using this bot in its current state is not recommended. One alternative is to use the [Vortex](https://github.com/jagrosh/Vortex) bot, which (botname) is a fork of.
+This bot is designed specifically for the Toychat community, but that does not mean it cannot work in other servers. However, this project is still very much incomplete, so using this bot in its current state is not recommended. One alternative is to use the [Vortex](https://github.com/jagrosh/Vortex) bot, which Toybot is a fork of.
 
 ## [Vortex Wiki](https://github.com/jagrosh/Vortex/wiki)
-### Please note, these links lead to information on the original Vortex bot, not (bot name). As many of the features have been reworked, it is very likely that the support listed here will not apply to (bot name).
+### Please note, these links lead to information on the original Vortex bot, not Toybot. As many of the features have been reworked, it is very likely that the support listed here will not apply to (bot name).
 ℹ [About Vortex](https://github.com/jagrosh/Vortex/wiki/About-Vortex)  
 🌀 [Getting Started](https://github.com/jagrosh/Vortex/wiki/Getting-Started)  
 🔨 [Moderator Guide](https://github.com/jagrosh/Vortex/wiki/Moderator-Guide)  
